@@ -1,0 +1,6 @@
+lastUpgrade=00900
+proj.AppId=1031000129869
+android.SetupDone=true
+ios.ClientId=
+ios.BundleId=netgame.studio.funnyduck
+ios.SetupDone=true
